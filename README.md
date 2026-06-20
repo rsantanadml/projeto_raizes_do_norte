@@ -32,15 +32,21 @@ O projeto foi desenvolvido como parte do Projeto Multidisciplinar do curso de An
 
 ### Cardápio
 
-![Cardápio](./docs/cardapio.png)
+<img width="767" height="431" alt="Captura de tela 2026-06-20 071250" src="https://github.com/user-attachments/assets/6fa5ab0a-96cf-4813-8acd-520483cdc7e0" />
+<img width="781" height="437" alt="Captura de tela 2026-06-20 071230" src="https://github.com/user-attachments/assets/03348b2d-5eb5-4a94-8579-94bd376f7649" />
+<img width="766" height="435" alt="Captura de tela 2026-06-20 071323" src="https://github.com/user-attachments/assets/f07a28aa-b93d-47bb-90dd-59c4a80f8d68" />
+<img width="784" height="431" alt="Captura de tela 2026-06-20 071304" src="https://github.com/user-attachments/assets/d955db2e-1e39-4449-a1c0-d8de9f2c2666" />
+
 
 ### Carrinho
 
-![Carrinho](./docs/carrinho.png)
+<img width="788" height="434" alt="Captura de tela 2026-06-20 071501" src="https://github.com/user-attachments/assets/9750f242-e653-42eb-a345-d97a9d56e46d" />
+
 
 ### Painel Administrativo
 
-![Painel](./docs/admin.png)
+<img width="907" height="417" alt="Captura de tela 2026-06-20 071937" src="https://github.com/user-attachments/assets/e2ad4f12-3115-4c51-83ed-9e747d3b1aa4" />
+
 
 ## 📦 Instalação
 
