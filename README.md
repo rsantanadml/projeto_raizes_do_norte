@@ -42,6 +42,13 @@ O projeto foi desenvolvido como parte do Projeto Multidisciplinar do curso de An
 
 <img width="788" height="434" alt="Captura de tela 2026-06-20 071501" src="https://github.com/user-attachments/assets/9750f242-e653-42eb-a345-d97a9d56e46d" />
 
+### Painel de Recebimento
+
+<img width="793" height="422" alt="Captura de tela 2026-06-20 071556" src="https://github.com/user-attachments/assets/7cbc38bd-50c3-46b1-9a62-998837ae659e" />
+
+### Painel Operacional
+
+<img width="914" height="430" alt="Captura de tela 2026-06-20 071835" src="https://github.com/user-attachments/assets/7d13680c-e217-4833-bdca-b41778f05719" />
 
 ### Painel Administrativo
 
