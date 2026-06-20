@@ -27,7 +27,8 @@ O projeto foi desenvolvido como parte do Projeto Multidisciplinar do curso de An
 
 ### Login
 
-![Login](./docs/login.png)
+<img width="498" height="432" alt="Captura de tela 2026-06-20 065328" src="https://github.com/user-attachments/assets/510ee15d-9892-4faf-9f00-b201280df89a" />
+
 
 ### Cardápio
 
